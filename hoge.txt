@@ -1,2 +1,4 @@
 Fuga
+もう1行追加する
+I added a new line here.
 
